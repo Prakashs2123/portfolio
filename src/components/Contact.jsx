@@ -55,15 +55,15 @@ const Contact = () => {
           <div className="flex flex-col space-y-5 text-lg md:text-xl font-semibold">
             <div className="flex items-center gap-3">
               <FaLocationDot className="text-[#fe5617]" size={20} />
-              <span>Pondicherry</span>
+              <span>Thanjore</span>
             </div>
             <div className="flex items-center gap-3">
               <FaPhoneAlt className="text-[#fe5617]" size={20} />
-              <span>9092595881</span>
+              <span>7548889190</span>
             </div>
             <div className="flex items-center gap-3">
               <FaEnvelope className="text-[#fe5617]" size={20} />
-              <span>immucoder@gmail.com</span>
+              <span>prakashs2123@gmail.com</span>
             </div>
             <div className="flex flex-col items-center gap-3">
               <h2 className="text-xl font-bold">Follow on</h2>

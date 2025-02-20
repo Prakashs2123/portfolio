@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { FaGithub, FaLinkedin, FaInstagram } from "react-icons/fa";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
@@ -7,12 +8,13 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
+    
     <div className="bg-[#FFFFFF]">
       <div className="max-w-[90%] mx-auto py-3 flex items-center justify-between font-inter">
         {/* Logo */}
         <div>
           <h1 className="text-[2.5rem] font-bold text-[#000] hover:text-[#fe5617] ">
-            Imran.
+            Prakash
           </h1>
         </div>
 
@@ -60,19 +62,19 @@ const Header = () => {
             } lg:hidden mt-3 flex justify-center gap-5`}
           >
             <a
-              href="https://github.com/AMOHAMMEDIMRAN"
+              href="https://github.com/Prakashs2123"
               className="  hover:text-[#fe5617] "
             >
               <FaGithub size={29} />
             </a>
             <a
-              href="https://www.linkedin.com/in/mohammedimrana/"
+              href="https://www.linkedin.com/in/prakash-s-16b84527a/"
               className="hover:text-[#fe5617]"
             >
               <FaLinkedin size={29} />
             </a>
             <a
-              href="https://www.instagram.com/immucoder/?__pwa=1"
+              href="https://www.instagram.com/prax_x_ash_/"
               className="hover:text-[#fe5617]"
             >
               <FaInstagram size={29} />
@@ -83,19 +85,19 @@ const Header = () => {
         {/* Social Media Links */}
         <div className="hidden lg:flex w-[100px] items-center justify-between">
           <a
-            href="https://github.com/AMOHAMMEDIMRAN"
+            href="https://github.com/Prakashs2123"
             className="hover:text-[#fe5617]"
           >
             <FaGithub size={29} />
           </a>
           <a
-            href="https://www.linkedin.com/in/mohammedimrana/"
+            href="https://www.linkedin.com/in/prakash-s-16b84527a/"
             className="hover:text-[#fe5617]"
           >
             <FaLinkedin size={29} />
           </a>
           <a
-            href="https://www.instagram.com/immucoder/?__pwa=1"
+            href="https://www.instagram.com/prax_x_ash_/"
             className="hover:text-[#fe5617]"
           >
             <FaInstagram size={29} />

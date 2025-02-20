@@ -20,7 +20,7 @@ const Project = () => {
               MongoDB, Express, React, Node.js, and styled with Tailwind CSS.
             </p>
             <a
-              href="https://petpalsss.netlify.app/login"
+              href="https://sv0kj5bw-5173.inc1.devtunnels.ms/"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo

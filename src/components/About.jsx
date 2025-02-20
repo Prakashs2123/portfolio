@@ -38,15 +38,13 @@ const About = () => {
 
         {/* About Me Section */}
         <p className="text-lg md:text-xl text-gray-700 text-center leading-relaxed">
-          I’m <span className="font-bold text-[#fe5617]">Mohammed Imran</span>,
-          a passionate MERN stack developer with experience in building
-          micro-SaaS projects and delivering 10+ projects for clients. As a
-          tutor, I’ve successfully taught frontend development to more than
-          <span className="font-bold text-[#fe5617]"> 50+ students</span>, and
-          as a content creator, I’ve built a community of
-          <span className="font-bold text-[#fe5617]"> 25k+ followers</span> on
-          social media. Currently, I’m a pre-final year B.Tech student in
-          Computer Science Engineering.
+          I’m <span className="font-bold text-[#fe5617]">Prakash</span>,
+           React.js Developer with a passion for building scalable and
+           interactive web applications. With experience in JavaScript, React, Redux, 
+           and <span className="font-bold text-[#fe5617]">Modern UI frameworks</span> like Bootstrap and Tailwind CSS, I create responsive and
+           user-friendly web experiences. I have worked on financial calculators, landing pages,
+           and e-commerce platforms, integrating in Front end development. Constantly 
+           learning and adapting,I aim to write clean, efficient, and maintainable code.
         </p>
 
         {/* Skills Section */}
@@ -85,38 +83,6 @@ const About = () => {
               <span className="font-bold">Redux</span>
             </div>
             <div className="flex flex-col items-center space-y-2">
-              <TbBrandFramerMotion size={40} className="text-[#1c1c1c]" />
-              <span className="font-bold">Framer Motion</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <IoLogoNpm size={40} className="text-[#CB3837]" />
-              <span className="font-bold">NPM</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <FaNode size={40} className="text-[#68a063]" />
-              <span className="font-bold">Node.js</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiExpress size={40} className="text-[#000000]" />
-              <span className="font-bold">Express.js</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiMongodb size={40} className="text-[#47a248]" />
-              <span className="font-bold">MongoDB</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiNextdotjs size={40} className="text-black" />
-              <span className="font-bold">Next.js</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiJsonwebtokens size={40} className="text-[#232F3E]" />
-              <span className="font-bold">JWT</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiSocketdotio size={40} className="text-[#010101]" />
-              <span className="font-bold">Socket.IO</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
               <FaGitAlt size={40} className="text-[#f05032]" />
               <span className="font-bold">Git</span>
             </div>
@@ -128,25 +94,10 @@ const About = () => {
               <DiVisualstudio size={40} className="text-[#0078d7]" />
               <span className="font-bold">VS Code</span>
             </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiPostman size={40} className="text-[#ef5b25]" />
-              <span className="font-bold">Postman</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiGraphql size={40} className="text-[#e535ab]" />
-              <span className="font-bold">GraphQL</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <IoLogoVercel size={40} className="text-[#000]" />
-              <span className="font-bold">Vercel</span>
-            </div>
+            
             <div className="flex flex-col items-center space-y-2">
               <SiNetlify size={40} className="text-[#00d1b2]" />
               <span className="font-bold">Netlify</span>
-            </div>
-            <div className="flex flex-col items-center space-y-2">
-              <SiRender size={40} className="text-[#000]" />
-              <span className="font-bold">Render</span>
             </div>
             <div className="flex flex-col items-center space-y-2">
               <FaFigma size={40} className="text-[#F24E1E]" />
