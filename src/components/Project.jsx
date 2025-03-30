@@ -20,7 +20,7 @@ const Project = () => {
               MongoDB, Express, React, Node.js, and styled with Tailwind CSS.
             </p>
             <a
-              href="https://sv0kj5bw-5173.inc1.devtunnels.ms/"
+              href="https://portfolio-flax-six-38.vercel.app/"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
