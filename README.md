@@ -1,10 +1,10 @@
-# Portfolio-Giveway
+# Portfolio
 
 A modern developer-focused portfolio template built with **Vite**, **React**, and **Tailwind CSS**. This template is fully customizable, responsive, and integrates **Web3Forms** for seamless form submission. Ideal for showcasing your projects, skills, and experience.
 
 ## Demo
 
-Check out the live demo: [immucoderr.netlify.app](https://immucoderr.netlify.app)
+Check out the live demo: (https://portfolio-reactjs-taupe.vercel.app)
 
 ## Features
 
@@ -27,12 +27,12 @@ Follow these steps to set up the project locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/AMOHAMMEDIMRAN/Portfolio-Giveway.git
+   git clone https://github.com/Prakashs2123/portfolio
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd Portfolio-Giveway
+   cd portfolio
    ```
 
 3. **Install Dependencies:**
