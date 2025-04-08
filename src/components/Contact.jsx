@@ -69,19 +69,19 @@ const Contact = () => {
               <h2 className="text-xl font-bold">Follow on</h2>
               <div className="flex gap-4">
                 <a
-                  href="https://github.com/AMOHAMMEDIMRAN"
+                  href="https://github.com/Prakashs2123"
                   className="hover:text-[#fe5617]"
                 >
                   <FaGithub size={29} />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/mohammedimrana/"
+                  href="https://www.linkedin.com/in/prakash-s-16b84527a"
                   className="hover:text-[#fe5617]"
                 >
                   <FaLinkedin size={29} />
                 </a>
                 <a
-                  href="https://www.instagram.com/immucoder/?__pwa=1"
+                  href="https://www.instagram.com/prax_x_ash_/"
                   className="hover:text-[#fe5617]"
                 >
                   <FaInstagram size={29} />

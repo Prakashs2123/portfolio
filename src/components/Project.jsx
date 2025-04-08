@@ -17,9 +17,8 @@ const Project = () => {
             <p className="text-lg text-gray-700 mb-4">
             A BMI Calculator web application where users can input their height and weight to 
             instantly calculate their Body Mass Index (BMI). Built using React.js for the frontend, 
-            styled with Tailwind CSS, and features a responsive layout. The application includes 
-            sliders for input, real-time BMI updates, and a categorized result display (Underweight, 
-            Normal, Overweight, etc.).
+            styled with Tailwind CSS, and features a responsive layout,real-time BMI updates, 
+            and a categorized result display (Underweight, Normal, Overweight, etc.).
             </p>
             <a
               href="https://bmi-calculator-zeta-rose.vercel.app/"
