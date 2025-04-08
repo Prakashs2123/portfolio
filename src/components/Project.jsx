@@ -12,15 +12,17 @@ const Project = () => {
           {/* PetPals Project */}
           <div className="w-full md:w-1/2 flex flex-col items-center bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-[#fe5617] font-extrabold text-[32px] mb-4">
-              PetPals
+              BMI Calculator
             </h1>
             <p className="text-lg text-gray-700 mb-4">
-              A MERN stack pet adoption platform where users can adopt pets,
-              view profiles, and connect with animal shelters. Built using
-              MongoDB, Express, React, Node.js, and styled with Tailwind CSS.
+            A BMI Calculator web application where users can input their height and weight to 
+            instantly calculate their Body Mass Index (BMI). Built using React.js for the frontend, 
+            styled with Tailwind CSS, and features a responsive layout. The application includes 
+            sliders for input, real-time BMI updates, and a categorized result display (Underweight, 
+            Normal, Overweight, etc.).
             </p>
             <a
-              href="https://portfolio-flax-six-38.vercel.app/"
+              href="https://bmi-calculator-zeta-rose.vercel.app/"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
@@ -134,7 +136,7 @@ const Project = () => {
               engaging layouts.
             </p>
             <a
-              href="https://github.com/AMOHAMMEDIMRAN/Amazing-Landing-Page"
+              href="https://github.com/prakashs2123/"
               className="text-center text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
